@@ -243,11 +243,3 @@ gif.on('finished', (blob) => {
   alert('Your GIF is ready and downloaded.');
 });
 ```
-
-
-# wishgenerator
-# wishgenerator
-# wishgenerator
-# wishgenerator
-# wishgenerator
-# wishgenerator
